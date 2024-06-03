@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    transition: background-color 0.5s, color 0.5s;
+}
+
+#container {
+    text-align: center;
+    padding: 20px;
+}
+
+#datetime {
+    margin-bottom: 40px;
+}
+
+#news {
+    text-align: left;
+    margin: auto;
+    max-width: 600px;
+}
+
+.day {
+    background-color: #fff7e6;
+    color: #333;
+}
+
+.afternoon {
+    background-color: #ffe0b3;
+    color: #333;
+}
+
+.night {
+    background-color: #333;
+    color: #fff;
+}
